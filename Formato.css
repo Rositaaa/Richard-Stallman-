@@ -1,0 +1,142 @@
+{ 
+    padding: 0;
+    margin: 0;
+}
+
+p{
+
+font-size: 16px;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+text-aling: center;
+line-height: 150%;
+}
+
+
+
+
+
+header {
+height: 10%;
+background: #8ABFCD;
+margin-bottom: 1em; 
+text-align: center;
+margin-top: 0.5em;
+width: 95%;
+margin: auto;
+    
+    
+}
+
+#contenido {
+    height: 850px;
+    margin: auto;
+    width: 95%;
+    margin-bottom: 0.5em;
+    
+    
+}
+#Menu {
+    background: #A4D199;
+    height: 1700px;
+    margin: auto;
+    width: 95%;
+    margin-bottom: 0.5em;
+     margin-top: 0.5em;
+    
+}
+article {
+    background: #A4D199;
+    height: 800px;
+    margin: auto;
+    float: left;
+    width: 80%;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    font-size: 20px;
+    font-family: Tw Cen MT;
+    text-align: justify
+    
+}
+
+
+aside {
+font-size: 25px;
+width: 18%;
+float: right;
+background: #DAFF7F;
+margin-bottom: 0.5em;
+margin-top: 0.5em;
+height: 800px;
+    
+}
+
+
+section {
+width: 98%;
+float: left;
+background: #D6EAF8;
+margin-bottom: 0.5em;
+float: left;
+margin-top: 0.5em;
+font-size: 20px;
+font-family: Tw Cen MT;
+text-align: justify
+}
+
+
+table {
+font-size: 20px;
+border: 5;
+font-family: Tw Cen MT;
+background-color: #ABEBC6;
+    text-align: center;
+    
+}
+
+#navegacion{
+width: 20%;
+background-color: #B0FFE2;
+margin: auto;
+}
+
+#navegacion nav a{
+text-decoration: none;
+}
+
+#navegacion nav li{
+display: inline-block;
+border: solid;
+background-color: #E6D9D9;
+float: center;
+}
+
+#navegacion nav a:hover{
+background-color: #AEAEAE;
+}
+
+.active{
+background-color: coral;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 155%;
+    height: 50px;
+    text-decoration: none;
+}
+footer {
+height: 15%;
+background: #FF9E7F;
+width: 95%;
+margin: auto;
+margin-bottom: 1;
+margin-top: 0.5em;
+
+    
+}
+#formulario{
+font-size: 20px;
+}
+
+
